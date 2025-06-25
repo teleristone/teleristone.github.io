@@ -5,7 +5,7 @@ feature_image:
 feature_text: |
   ## Teleri Stone
 ---
-
+![header of teleri](https://github.com/teleristone/teleristone.github.io/blob/main/img/bins_photo.jpg)
 
 I am a recent graduate from Lancaster University with a degree in Zoology (with Placement Year) BSc. I am currently doing an [internship with N8 CIR](https://n8cir.org.uk/themes/internships/internships-2025/lancaster/).
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Teleri Stone
 layout: page
 feature_image:
 feature_text: |
